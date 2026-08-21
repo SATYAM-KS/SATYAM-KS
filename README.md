@@ -109,16 +109,14 @@ I'm **Satyam Kumar Singh**, a Full-Stack & AI Engineer focused on building and s
 
 <div align="center">
 
-<img height="180" src="./profile/stats.svg" alt="GitHub Statistics"/>
-<img height="180" src="./profile/streak.svg" alt="GitHub Streak"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SATYAM-KS&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub Statistics"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SATYAM-KS&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img height="180" src="./profile/top-langs.svg" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYAM-KS&layout=compact&langs_count=10&hide_border=true&theme=github_dark" alt="Top Languages"/>
 
 </div>
-
-> Analytics are generated automatically by GitHub Actions and stored in this repository.
 
 ---
 
