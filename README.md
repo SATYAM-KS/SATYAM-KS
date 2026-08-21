@@ -39,7 +39,6 @@ I'm **Satyam Kumar Singh**, a Full-Stack & AI Engineer focused on building and s
 - **25+ Hackathons**
 - **5+ Wins**
 - **10+ Finalist Finishes**
-- National-Level Winner — **Techathon 2.0**
 
 > Building systems. Shipping products. Solving real problems.
 
@@ -211,9 +210,6 @@ Leading architecture and development across concurrent product workstreams.
 
 **5+ Wins · 10+ Finalist Finishes**
 
-### National-Level Winner — Techathon 2.0
-
-**Falcon Disaster Response System**
 
 </div>
 
