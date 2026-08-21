@@ -123,16 +123,6 @@ I'm **Satyam Kumar Singh**, a Full-Stack & AI Engineer focused on building and s
 
 ---
 
-# Contribution Activity
-
-<div align="center">
-
-<img src="./profile/contributions.svg" alt="GitHub Contribution Activity" width="90%"/>
-
-</div>
-
----
-
 # Featured Projects
 
 <table>

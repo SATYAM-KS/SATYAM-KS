@@ -42,18 +42,6 @@ jobs:
           timezone: Asia/Kolkata
           hide-border: true
 
-      - name: Generate contribution statistics
-        uses: cicirello/user-statistician@v1
-        with:
-          image-file: profile/contributions.svg
-          colors: dark-dimmed
-          include-title: true
-          custom-title: GitHub Contribution Activity
-          hide-keys: general, repositories, languages
-          commit-and-push: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
-
       - name: Commit updated analytics
         run: |
           git config user.name "github-actions[bot]"
